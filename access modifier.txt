@@ -1,0 +1,4 @@
+default
+public- we can access all the method and variable in different class.
+private- we can access within the class.
+protected-- same package we can access all the method and variable.

@@ -1,0 +1,17 @@
+4 method-- 
+==============
+1 method - sum
+2 method - mult
+3 method - sub
+4 mthod - div
+=====================================================
+2 method
+============
+1 method - private
+1 method public
+return type int
+simple msg print public method
+==> along with we need object reference also
+=====================================================
+System.out.println-- meaning digout
+
