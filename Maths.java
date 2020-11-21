@@ -1,24 +1,10 @@
-class Maths{
-      public int operator(int a, int b){
-      return(a+b);
-      }
-     public float operator(float a, float b){
-     return(a-b);
-      }
-   
-     public int operator(int a, int b, int c){
-      return(a*b*c);
-      }
-        
-     public double operator(double a, double b){
-      return(a/b);
-      }
-        
-public static void main(String args[]){ 
-Maths m = new Maths();
-System.out.println(m.operator(12, 34));
-System.out.println(m.operator(18.9, 54.78));
-System.out.println(m.operator(112, 90, 67));
-System.out.println(m.operator(111.2, 8.90));
+package com.java.programming;
+
+public class Maths {
+public static void main(String[] args) {
+	System.out.println(-5+8*6);
+	System.out.println((55+9) % 9);
+	System.out.println(20 + -3*5 / 8);
+	System.out.println(5 + 15 / 3 * 2 - 8 % 3);
 }
 }
